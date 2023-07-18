@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2018-07-15
+img: Screenshot_MoTA.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Programmer / QA Lead
+description: March of the Abyss was developed in Unity with three other students from my final year at UEL, for this project I was lead support for the programming together with Christian Stanley. I also was the Quality Assurance (QA) Lead to run all the playtests and created the reports during the development phases of the project. 
+description2: lol.
 ---
